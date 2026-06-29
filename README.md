@@ -55,9 +55,9 @@ Sebelum menjalankan aplikasi, pastikan Anda telah menginstal komponen berikut:
 3.  **Jalankan Aplikasi:**
     Eksekusi berkas skrip Python utama untuk membuka antarmuka GUI:
     ```bash
-    python gemini-code-1782712902336.py
+    python main.py
     ```
-    *(Catatan: Sesuaikan nama file `.py` jika Anda mengubah namanya seperti `main.py` atau `app.py`).*
+    *(Catatan: Sesuaikan nama file `.py` jika Anda mengubah namanya).*
 
 ---
 
