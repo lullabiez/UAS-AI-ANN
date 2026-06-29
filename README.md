@@ -19,7 +19,7 @@ Aplikasi berbasis Desktop GUI menggunakan Python dan Tkinter untuk mensimulasika
 
 Berikut adalah visualisasi antarmuka aplikasi dengan tata letak dual-panel yang proporsional:
 
-![Pratinjau Antarmuka Aplikasi](images/screenshot.png)
+![Pratinjau Antarmuka Aplikasi](screenshot.png)
 
 1.  **Panel Kiri:** Parameter Utama ANN (NIM, Max Epoch, Target Error, Konstanta e), Input Dataset Manual (Pendapatan $x_1$, Hutang $x_2$, Target $t$), dan Tabel Preview Bobot Awal Terkalibrasi.
 2.  **Panel Kanan:** Tombol Eksekusi, Monitor Console Log Perhitungan Utama, Pencarian Kata Kunci, dan Fitur Cetak PDF.
